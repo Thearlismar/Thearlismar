@@ -46,7 +46,6 @@ I am Thearlismar, A full stack developer and a huge fan of new technologies. Ple
  <img align="center" alt="Tsa-Azure" height="30" width="40" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png">
 </div>
 
-- 
 ##
 
 <div>
